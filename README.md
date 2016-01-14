@@ -25,9 +25,14 @@ see below.
 
 ## Cost
 
-- Node.JS Project Contributors (any member of the GitHub Org): [__free__][2]
+- Node.JS Project Contributors (any member of the GitHub Org): [__free__][2]*
 - Students: __$25/yr__
 - General Population: __$100/yr__
+
+*This is an issue on a Private repo that is only accessible to GitHub users
+who are on the [`Members` team][8] on the [`nodejs` GitHub organization][9].
+Users are added to that team when they contribute consistently to Node.js
+projects or participate in one of the [Working Groups][10].
 
 ## Registration
 
@@ -64,3 +69,6 @@ a 2 year staggered term.
 [5]: https://nodejs.org/en/foundation/board/
 [6]: https://github.com/nodejs/membership/issues
 [7]: https://github.com/nodejs/TSC
+[8]: https://github.com/orgs/nodejs/teams/members 
+[9]: https://github.com/nodejs
+[10]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
