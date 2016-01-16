@@ -17,7 +17,6 @@ Nominations for the 2016 Election are posted [here][1].
 ### Schedule
 
 - Nominations were solicited until January 15th.
- - Nominees are:
   - @guyellis [nomination](http://www.guyellisrocks.com/2015/11/node-foundation-membership-election.html)
   - @sup [nomination](http://jona.io/blog/board-application/)
   - @ashleywilliams [nomination](https://medium.com/@ag_dubs/hi-i-m-running-for-the-node-foundation-board-of-directors-c87d762cb78b)
