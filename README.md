@@ -19,7 +19,7 @@ Nominations for the 2016 Election are posted [here][1].
 - Nominations were solicited until January 15th.
   - @guyellis [nomination](http://www.guyellisrocks.com/2015/11/node-foundation-membership-election.html)
   - @sup [nomination](http://jona.io/blog/board-application/)
-  - @ashleywilliams [nomination](https://medium.com/@ag_dubs/hi-i-m-running-for-the-node-foundation-board-of-directors-c87d762cb78b)
+  - @ashleygwilliams [nomination](https://medium.com/@ag_dubs/hi-i-m-running-for-the-node-foundation-board-of-directors-c87d762cb78b)
   - @contra [nomination](http://contra.io/node_board.txt)
   - @geek [nomination](http://jsgeek.com/posts/node-foundation-board-nomination.html)
   - @jaredhanson [nomination](http://jaredhanson.net/blog/2016/01/13/im-running-for-the-node-js-foundation-bod/)
