@@ -16,7 +16,20 @@ Nominations for the 2016 Election are posted [here][1].
 
 ### Schedule
 
-- Nominations are being solicited until January 15th.
+- Nominations were solicited until January 15th.
+ - Nominees are:
+  - @guyellis [nomination](http://www.guyellisrocks.com/2015/11/node-foundation-membership-election.html)
+  - @sup [nomination](http://jona.io/blog/board-application/)
+  - @ashleywilliams [nomination](https://medium.com/@ag_dubs/hi-i-m-running-for-the-node-foundation-board-of-directors-c87d762cb78b)
+  - @contra [nomination](http://contra.io/node_board.txt)
+  - @geek [nomination](http://jsgeek.com/posts/node-foundation-board-nomination.html)
+  - @jaredhanson [nomination](http://jaredhanson.net/blog/2016/01/13/im-running-for-the-node-js-foundation-bod/)
+  - @tejasmanohar [nomination](https://medium.com/@tejasmanohar/node-js-foundation-board-of-directors-5514e8faa660)
+  - @bnb [nomination](http://bnb.im/blog/Individual-Membership-on-the-Board-of-Directors-for-Node-js.html)
+  - @watson [nomination](https://medium.com/@wa7son/why-i-m-running-for-the-node-js-foundation-board-of-directors-253bc2e3a834#.oarxi35e2)
+  - @feross [nomination](http://feross.org/node-board/)
+  - @pgte [nomination](https://gist.github.com/pgte/cfbf468202b35be78c66)
+  - @ecowden [nomination](https://medium.com/@evan.cowden/the-world-s-worst-resume-e0adf234baa0#.47ru4hped)
 - A ballot will be distributed on January 20th.
 - The election will be completed by January 30th.
 
