@@ -10,27 +10,17 @@ accepts [individual humans as members][4].
 Individual members of the Node Foundation have the ability to
 both run and vote for representation on the [Board of Directors][5].
 
-## Current Election
+## 2016 Election
 
-Nominations for the 2016 Election are posted [here][1].
+Nominations for the 2016 Election were posted [here][1].
 
-### Schedule
+The 2016 election was the first Individual Membership Election. The winner of the 
+election is serving a two year term and the runner-up is serving a one year term.
+Future elections will happen each year for a new two year term.
 
-- Nominations were solicited until January 15th.
-  - [@guyellis](https://github.com/guyellis) -  [nomination](http://www.guyellisrocks.com/2015/11/node-foundation-membership-election.html), [Q&A](https://github.com/nodejs/membership/issues/19)
-  - [@sup](https://github.com/sup) - [nomination](http://jona.io/blog/board-application/), [Q&A](https://github.com/nodejs/membership/issues/20)
-  - [@ashleygwilliams](https://github.com/ashleygwilliams) - [nomination](https://medium.com/@ag_dubs/hi-i-m-running-for-the-node-foundation-board-of-directors-c87d762cb78b), [Q&A](https://github.com/nodejs/membership/issues/21)
-  - [@contra](https://github.com/contra) - [nomination](http://contra.io/node_board.txt), [Q&A](https://github.com/nodejs/membership/issues/22)
-  - [@geek](https://github.com/geek) - [nomination](http://jsgeek.com/posts/node-foundation-board-nomination.html), [Q&A](https://github.com/nodejs/membership/issues/23)
-  - [@jaredhanson](https://github.com/jaredhanson) - [nomination](http://jaredhanson.net/blog/2016/01/13/im-running-for-the-node-js-foundation-bod/), [Q&A](https://github.com/nodejs/membership/issues/24)
-  - [@tejasmanohar](https://github.com/tejasmanohar) - [nomination](https://medium.com/@tejasmanohar/node-js-foundation-board-of-directors-5514e8faa660), [Q&A](https://github.com/nodejs/membership/issues/25)
-  - [@bnb](https://github.com/bnb) - [nomination](http://bnb.im/blog/Individual-Membership-on-the-Board-of-Directors-for-Node-js.html), [Q&A](https://github.com/nodejs/membership/issues/26)
-  - [@watson](https://github.com/watson) - [nomination](https://medium.com/@wa7son/why-i-m-running-for-the-node-js-foundation-board-of-directors-253bc2e3a834#.oarxi35e2), [Q&A](https://github.com/nodejs/membership/issues/27)
-  - [@feross](https://github.com/feross) - [nomination](http://feross.org/node-board/), [Q&A](https://github.com/nodejs/membership/issues/28)
-  - [@pgte](https://github.com/pgte) - [nomination](https://gist.github.com/pgte/cfbf468202b35be78c66), [Q&A](https://github.com/nodejs/membership/issues/29)
-  - [@ecowden](https://github.com/ecowden) - [nomination](https://medium.com/@evan.cowden/the-world-s-worst-resume-e0adf234baa0#.47ru4hped), [Q&A](https://github.com/nodejs/membership/issues/30)
-- A ballot will be distributed on January 20th.
-- The election will be completed by January 30th.
+- The board members elected in the 2016 election are:
+  - Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) for a 2 year term.
+  - Feross Aboukhadijeh [@feross](https://github.com/feross) for a 1 year term.
 
 For more information about Individual Membership on the Board,
 see below.
