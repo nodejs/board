@@ -1,6 +1,6 @@
 # Membership
 
-The Node.js Foundation now has an Individual Membership Program.
+The Node.js Foundation has an Individual Membership Program.
 
 The Foundation is a member based organization. Previously the
 foundation only had the ability for companies and non-profits
@@ -9,6 +9,17 @@ accepts [individual humans as members][4].
 
 Individual members of the Node Foundation have the ability to
 both run and vote for representation on the [Board of Directors][5].
+
+## 2017 Election
+
+Nominations for the 2017 Election were posted [here][11].
+
+The winner of the 2017 election will serve a two year term. They will join 
+Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) who will
+serve with the elected director in 2017 for the balance of the 2 year term.
+
+For more information about Individual Membership on the Board,
+see below.
 
 ## 2016 Election
 
@@ -21,9 +32,6 @@ Future elections will happen each year for a new two year term.
 - The board members elected in the 2016 election are:
   - Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) for a 2 year term.
   - Feross Aboukhadijeh [@feross](https://github.com/feross) for a 1 year term.
-
-For more information about Individual Membership on the Board,
-see below.
 
 ## Cost
 
@@ -74,3 +82,4 @@ a 2 year staggered term.
 [8]: https://github.com/orgs/nodejs/teams/members 
 [9]: https://github.com/nodejs
 [10]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
+[11]: https://github.com/nodejs/membership/issues/12
