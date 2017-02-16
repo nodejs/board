@@ -1,6 +1,6 @@
 # Node.js Foundation<br>Board of Directors Handbook
 
-Although the Node.js Foundation is a not-for-profit membership organization rather than a corporation owned by stockholders, the same legal rules and obligations apply to its Board of Directors as is the case with a publicly or privately held stock corporation.  Thus, while a member of the Board may have been nominated or even appointed by the Director’s employer as an exercise of a membership right, such a director must be mindful of a Director’s obligations under standing law and the Foundation's Certificate of Incorporation and By-laws.  The purpose of this document is to acquaint new and existing Directors of these obligations.
+Although the Node.js Foundation is a not-for-profit membership organization rather than a corporation owned by stockholders, the same legal rules and obligations apply to its Board of Directors as is the case with a publicly or privately held stock corporation.  Thus, while a member of the Board may have been nominated or even appointed by the Director’s employer as an exercise of a membership right, such a director must be mindful of a Director’s obligations under standing law and the Foundation's Certificate of Incorporation and By-Laws.  The purpose of this document is to acquaint new and existing Directors of these obligations.
 
 It is the express policy of the Foundation to require that all its activities be conducted strictly in accordance with federal and state laws.  It is extremely important that all members of the Board of Directors be aware of the legal and ethical standards to which you are held and the types of activities to avoid in order to fulfill your duties as directors properly, as well as to avoid liability.
 
@@ -12,7 +12,7 @@ The Board of Directors represents the interests of the Foundation’s Members.  
 
 Directors need to be aware that the Foundation’s funds are dedicated to the purposes set forth in the Certificate of Incorporation, and may only be used in a manner consistent with the Foundation’s authorized tax-exempt purposes.
 
-Generally, the Board may take action at meetings at which the requisite number of Directors is participating (in person or via communications equipment), and the requisite number Directors vote in favor, in each case as provided in Article IV of the By-laws. Actions may also be taken electronically in accordance with the rules of the same Article. In some cases, a Super Majority (two-thirds) of the then serving Directors is required to approve an action.
+Generally, the Board may take action at meetings at which the requisite number of Directors is participating (in person or via communications equipment), and the requisite number Directors vote in favor, in each case as provided in Article IV of the By-Laws. Actions may also be taken electronically in accordance with the rules of the same Article. In some cases, a Super Majority (two-thirds) of the then serving Directors is required to approve an action.
 
 Additional information about Board governance and Directors is contained in Article IV of the By-Laws, which all Directors should review carefully.
 
@@ -76,7 +76,7 @@ Directors have access to the Foundation’s management team.  Directors should u
 
 ## Public Statements
 
-A Director may not act in an official capacity or speak publicly on behalf of the Foundation unless empowered to do so under the By-laws or as specifically empowered by the Board. Except where so empowered or authorized, a Director speaking publicly to Foundation membership or in any other public forum must ensure that the Director’s statements are clearly identified as personal opinions and that the Director is not speaking on behalf of the Foundation in any official capacity or expressing the views or positions of the Foundation. 
+A Director may not act in an official capacity or speak publicly on behalf of the Foundation unless empowered to do so under the By-Laws or as specifically empowered by the Board. Except where so empowered or authorized, a Director speaking publicly to Foundation membership or in any other public forum must ensure that the Director’s statements are clearly identified as personal opinions and that the Director is not speaking on behalf of the Foundation in any official capacity or expressing the views or positions of the Foundation. 
 
 ## Support of Board Decisions
 
