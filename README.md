@@ -73,13 +73,13 @@ for the standard 2 year term and the runner-up will serve a special
 a 2 year staggered term.
 
 [1]: https://github.com/nodejs/membership/issues/12
-[2]: https://github.com/nodejs/members/issues/1
+[2]: https://github.com/nodejs/membership/issues/1
 [3]: https://identity.linuxfoundation.org/pid/99
 [4]: https://nodejs.org/en/blog/community/individual-membership/
 [5]: https://nodejs.org/en/foundation/board/
 [6]: https://github.com/nodejs/membership/issues
 [7]: https://github.com/nodejs/TSC
-[8]: https://github.com/orgs/nodejs/teams/members 
+[8]: https://github.com/orgs/nodejs/people 
 [9]: https://github.com/nodejs
 [10]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [11]: https://github.com/nodejs/membership/issues/12
