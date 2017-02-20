@@ -10,12 +10,12 @@ https://nodejs.org/en/foundation/members/
 Individual Members of the Node.js Foundation have the ability to both run and vote for 
 representation on the [Board of Directors](https://nodejs.org/en/foundation/board/).
 
-## Representation on the Board of Directors
+### Representation on the Board of Directors
 The Individual Members are represented on the Board of Directors by 2 Individual Directors 
 with staggared two year terms. A representivite is elected in January of each year with
 no limitations to the number of terms served.
 
-### Current Individual Directors
+#### Current Individual Directors
 <!-- Senior Director always listed first. Upon re-election, they become the Junior again.-->
 <table>
   <tr>
@@ -43,10 +43,10 @@ no limitations to the number of terms served.
 Along with their regular Board duties, the Individual Directors use 
 this repository to communitcate with the Membership.
 
-### Previous Individual Directors
+#### Previous Individual Directors
 - Feross Aboukhadijeh [@feross](https://github.com/feross) • Jan 2016 - Jan 2017.
 
-## Registration and Cost
+### Registration and Cost
 Anyone with a GitHub account may become an Individual Member. Visit 
 https://identity.linuxfoundation.org/pid/99 to register.
 
@@ -60,7 +60,7 @@ who are on the [`Members` team](https://github.com/orgs/nodejs/teams/members) of
 the `nodejs` GitHub organization. Users are added to the team (by Collaborators)
 when they contribute consistently to a Node.js Foundation project.</sup>
 
-# Questions? Comments?
+## Questions? Comments?
 
 [Please file an issue.](https://github.com/nodejs/board/issues)
 
