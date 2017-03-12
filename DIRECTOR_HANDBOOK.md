@@ -1,4 +1,4 @@
-# Node.js Foundation<br>Board of Directors Handbook
+# Node.js Foundation : Board of Directors Handbook
 
 Although the Node.js Foundation is a not-for-profit membership organization rather than a corporation owned by stockholders, the same legal rules and obligations apply to its Board of Directors as is the case with a publicly or privately held stock corporation. Thus, while a member of the Board may have been nominated or even appointed by the Director’s employer as an exercise of a membership right, such a director must be mindful of a Director’s obligations under standing law and the Foundation's Certificate of Incorporation and By-Laws. The purpose of this document is to acquaint new and existing Directors of these obligations.
 
