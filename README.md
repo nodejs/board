@@ -12,7 +12,7 @@ representation on the [Board of Directors](https://nodejs.org/en/foundation/boar
 
 ### Representation on the Board of Directors
 The Individual Members are represented on the Board of Directors by 2 Individual Directors 
-with staggared two year terms. A representivite is elected in January of each year with
+with staggared two year terms. A representative is elected in January of each year with
 no limitations to the number of terms served.
 
 #### Current Individual Directors
@@ -51,14 +51,14 @@ Anyone with a GitHub account may become an Individual Member. Visit
 https://identity.linuxfoundation.org/pid/99 to register.
 
 The cost of Individual Membership is:
-- Node.JS Project Contributors: [__free__][1]*
+- Node.js Project Contributors: [__free__][1]*
 - Students: __$25/yr__
 - General Population: __$100/yr__
 
 <sup>* links to an issue on a Private repo that is only accessible to GitHub users
 who are on the [`Members` team](https://github.com/orgs/nodejs/teams/members) of
 the `nodejs` GitHub organization. Users are added to the team (by Collaborators)
-when they contribute consistently to a Node.js Foundation project.</sup>
+when they contribute consistently to [a Node.js Foundation project](https://github.com/nodejs/).</sup>
 
 ## Questions? Comments?
 
