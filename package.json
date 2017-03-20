@@ -1,0 +1,25 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "Node.js Foundation Board",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mammoth": "^1.3.3",
+    "to-markdown": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkapke/board.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamkapke/board/issues"
+  },
+  "homepage": "https://github.com/williamkapke/board#readme"
+}
