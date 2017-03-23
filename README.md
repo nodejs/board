@@ -1,85 +1,67 @@
-# Membership
+# Board of Directors
 
-The Node.js Foundation has an Individual Membership Program.
+The Node.js Foundation is a member based organization. There are 5 classes of Membership: 
+Platinum, Gold, and Silver Members, Associated Entity Members and Individual Members.
 
-The Foundation is a member based organization. Previously the
-foundation only had the ability for companies and non-profits
-to be members, but as of November 2015, the Foundation also
-accepts [individual humans as members][4].
+A list of non-Individual members and additional information is available on the website:
+https://nodejs.org/en/foundation/members/
 
-Individual members of the Node Foundation have the ability to
-both run and vote for representation on the [Board of Directors][5].
+## Individual Members
+Individual Members of the Node.js Foundation have the ability to both run and vote for 
+representation on the [Board of Directors](https://nodejs.org/en/foundation/board/).
 
-## 2017 Election
+### Representation on the Board of Directors
+The Individual Members are represented on the Board of Directors by 2 Individual Directors 
+with staggared two year terms. A representative is elected in January of each year with
+no limitations to the number of terms served.
 
-Nominations for the 2017 Election were posted [here][11].
+#### Current Individual Directors
+<!-- Senior Director always listed first. Upon re-election, they become the Junior again.-->
+<table>
+  <tr>
+    <td>
+      <a href="//github.com/ashleygwilliams">
+        <img width=200 src="https://avatars.githubusercontent.com/u/1163554?s=200" alt="@ashleygwilliams">
+      </a>
+      <br>
+      **Ashley Williams**<br>
+      <a href="//github.com/ashleygwilliams">@ashleygwilliams</a><br>
+      <sup>Jan 2016 - Jan 2018</sup>
+    </td>
+    <td>
+      <a href="//github.com/williamkapke">
+        <img width=200 src="https://avatars.githubusercontent.com/u/739813?s=200" alt="@williamkapke">
+      </a>
+      <br>
+      **William Kapke**<br>
+      <a href="//github.com/williamkapke">@williamkapke</a><br>
+      <sup>Jan 2017 - Jan 2019</sup>
+    </td>
+  </tr>
+<table>
 
-The winner of the 2017 election will serve a two year term. They will join 
-Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) who will
-serve with the elected director in 2017 for the balance of the 2 year term.
+Along with their regular Board duties, the Individual Directors use 
+this repository to communitcate with the Membership.
 
-For more information about Individual Membership on the Board,
-see below.
+#### Previous Individual Directors
+- Feross Aboukhadijeh [@feross](https://github.com/feross) • Jan 2016 - Jan 2017.
 
-## 2016 Election
+### Registration and Cost
+Anyone with a GitHub account may become an Individual Member. Visit 
+https://identity.linuxfoundation.org/pid/99 to register.
 
-Nominations for the 2016 Election were posted [here][1].
-
-The 2016 election was the first Individual Membership Election. The winner of the 
-election is serving a two year term and the runner-up is serving a one year term.
-Future elections will happen each year for a new two year term.
-
-- The board members elected in the 2016 election are:
-  - Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) for a 2 year term.
-  - Feross Aboukhadijeh [@feross](https://github.com/feross) for a 1 year term.
-
-## Cost
-
-- Node.JS Project Contributors (any member of the GitHub Org): [__free__][2]*
+The cost of Individual Membership is:
+- Node.js Project Contributors: [__free__][1]*
 - Students: __$25/yr__
 - General Population: __$100/yr__
 
-*This is an issue on a Private repo that is only accessible to GitHub users
-who are on the [`Members` team][8] on the [`nodejs` GitHub organization][9].
-Users are added to that team when they contribute consistently to Node.js
-projects or participate in one of the [Working Groups][10].
+<sup>* links to an issue on a Private repo that is only accessible to GitHub users
+who are on the [`Members` team](https://github.com/orgs/nodejs/teams/members) of
+the `nodejs` GitHub organization. Users are added to the team (by Collaborators)
+when they contribute consistently to [a Node.js Foundation project](https://github.com/nodejs/).</sup>
 
-## Registration
+## Questions? Comments?
 
-Visit [https://identity.linuxfoundation.org/pid/99][3]. Be sure to login via Github.
+[Please file an issue.](https://github.com/nodejs/board/issues)
 
-# Questions? Comments?
-
-[Please file an issue.][6]
-
-## Representation on the Board of Directors
-
-The Board meets every month to approve resolutions and discuss
-Node.js Foundation administrative matters. This includes legal
-considerations, budgeting and approving Foundation-led
-conferences and other initiatives. Technical governance is
-overseen by the [TSC][7], not the Board of Directors.
-
-### Term Lengths
-
-The standard term length for those elected by the individual
-membership is 2 years, with an election each year to select
-a new representative for a new term.
-
-However, in the first (2016) election two representatives will
-be elected; the representative with the most votes will be elected
-for the standard 2 year term and the runner-up will serve a special
-1-year term so that in 2017 we can elect a single new director for
-a 2 year staggered term.
-
-[1]: https://github.com/nodejs/membership/issues/12
-[2]: https://github.com/nodejs/membership/issues/1
-[3]: https://identity.linuxfoundation.org/pid/99
-[4]: https://nodejs.org/en/blog/community/individual-membership/
-[5]: https://nodejs.org/en/foundation/board/
-[6]: https://github.com/nodejs/membership/issues
-[7]: https://github.com/nodejs/TSC
-[8]: https://github.com/orgs/nodejs/people 
-[9]: https://github.com/nodejs
-[10]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
-[11]: https://github.com/nodejs/membership/issues/12
+[1]: https://github.com/nodejs/membership/issues/1
