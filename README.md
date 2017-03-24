@@ -41,7 +41,7 @@ no limitations to the number of terms served.
 <table>
 
 Along with their regular Board duties, the Individual Directors use 
-this repository to communitcate with the Membership.
+this repository to communicate with the Membership.
 
 #### Previous Individual Directors
 - Feross Aboukhadijeh [@feross](https://github.com/feross) • Jan 2016 - Jan 2017.
