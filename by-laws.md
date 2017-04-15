@@ -359,18 +359,20 @@ Number"). The Board shall comprise the Directors described in Section 4.3 below.
 individually to appoint one Director (each a "Platinum Director"). Each Platinum Director shall
 serve in accordance with Section 4.3(h) below and until his or her successor shall be duly
 appointed or until his or her earlier resignation or removal.
-- b) At the time of any election of Directors where there are at least three (3) Gold
-Members in good standing, each Gold Member in good standing shall have the right to vote,
-together with the other Gold Members as a class, to elect that number of Directors equal to the
+- b) At the time of any election of Directors where there is at least one (1) Gold
+Member in good standing, each Gold Member in good standing shall have the right to vote,
+together with any other Gold Members as a class, to elect that number of Directors equal to the
 lesser of (i) the number of Gold Members then in good standing divided by three (3), rounded
 down to the nearest whole number, and (ii) that number of Directors equal to the number of
-Platinum Directors then being appointed or in office, less three (3) (each such Director being
-referred to as a "Gold Director"), subject to a maximum of three (3) Gold Directors. Prior to the
-first annual action of Members, the initial Gold Director(s) shall be elected at a time approved by
-the Board. Each Gold Director shall serve in accordance with Section 4.3(h) below and until his
-or her successor is elected and qualified or until his or her earlier resignation or removal. The
-selection of nominees for such position(s) shall be performed under such nominating procedures
-as may be set by the Board from time to time.
+Platinum Directors then being appointed or in office, less three (3); provided that regardless
+of the foregoing, the Gold Member(s) shall always be entitled a minimum of one Director, and a
+maximum of three (3) directors (each such Director being referred to as a "Gold Director"). In
+the event that there are two Gold Members, each desiring to vote for its own nominee, the winner
+shall be determined by a coin toss. Prior to the first annual action of Members, the initial Gold
+Director(s) shall be elected at a time approved by the Board. Each Gold Director shall serve in
+accordance with Section 4.3(h) below and until his or her successor is elected and qualified or
+until his or her earlier resignation or removal. The selection of nominees for such position(s)
+shall be performed under such nominating procedures as may be set by the Board from time to time.
 - c) At the time of any election of Directors where there are at least ten (10) Silver
 Members in good standing, each Silver Member in good standing shall have the right to vote,
 together with the other Silver Members as a class, to elect the least of (i) three (3) Directors, (ii)
