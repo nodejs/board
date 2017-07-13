@@ -1,10 +1,10 @@
-# Node.js Foundation : Board of Directors Handbook
+# Node.js Foundation : Onboarding Guild for Directors
 
 Although the Node.js Foundation is a not-for-profit membership organization rather than a corporation owned by stockholders, the same legal rules and obligations apply to its Board of Directors as is the case with a publicly or privately held stock corporation. Thus, while a member of the Board may have been nominated or even appointed by the Director’s employer as an exercise of a membership right, such a director must be mindful of a Director’s obligations under standing law and the Foundation's Certificate of Incorporation and By-Laws. The purpose of this document is to acquaint new and existing Directors of these obligations.
 
 It is the express policy of the Foundation to require that all its activities be conducted strictly in accordance with federal and state laws. It is extremely important that all members of the Board of Directors be aware of the legal and ethical standards to which you are held and the types of activities to avoid in order to fulfill your duties as directors properly, as well as to avoid liability.
 
-These Governance Guidelines, Code of Conduct and Duties were prepared to provide you with a broad, summary overview of the standards under the law to which you will be held. However, you should note that these governance guidelines and standards provide a general guide only; they are not intended to be a complete and definitive statement of all aspects of the law relating to the duties of Directors. Any specific questions relating to your duties as a Director not addressed in these governance guidelines and standards should be referred to counsel for the Foundation or to your own legal counsel who has responsibility for considering your duties as a Director of the Foundation.
+The guidelines in this document, were prepared to provide you with a broad, summary overview of the standards under the law to which you will be held. However, you should note that these governance guidelines are not intended to be a complete and definitive statement of all aspects of the law relating to the duties of Directors. Any specific questions relating to your duties as a Director not addressed in these governance guidelines and standards should be referred to counsel for the Foundation or to your own legal counsel who has responsibility for considering your duties as a Director of the Foundation.
 
 ## Board Governance
 
@@ -21,14 +21,14 @@ Additional information about Board governance and Directors is contained in Arti
 The Board’s core responsibilities consist of the following:
 
 * Advising and counseling management regarding significant issues facing the Foundation;
-* Evaluating and approving the Foundation’s strategic direction and initiatives, and monitoring its implementation and results;
+* Evaluating and approving the Foundation’s strategic direction and initiatives, and monitoring their implementation and results;
 * Monitoring the Foundation’s activities and financial condition;
 * Overseeing the Foundation’s integrity and ethics, compliance with laws and financial integrity and reporting;
 * Succession planning and management development;
 * Assessing the performance of senior management and setting compensation, if applicable; and
 * Understanding and assessing risks to the Foundation and monitoring the management of those risks.
 
-To fulfill its core responsibilities, Directors are expected to attend all meetings (except when special circumstances or pre-established material commitments dictate otherwise) and review materials in advance of the meetings.
+To fulfill their core responsibilities, Directors are expected to attend all meetings (except when special circumstances or pre-established material commitments dictate otherwise) and review materials in advance of the meetings.
 
 ## Director Duties and Responsibilities
 
@@ -44,7 +44,7 @@ Your _duty of care_, in general, means that you should be reasonably informed to
 
 Your _duty of loyalty_ means, generally, that you exercise your powers as a Director in the interest of the Foundation and not in your own interests or the interests of another entity or person. You may not use your position as a Director for personal advantage or to take an opportunity that is offered to the Foundation and use it personally. In some cases, you may have interests that conflict with those of the Foundation. You must be aware of the potential for such conflicts and disclose any potential conflict to the Board when this type of situation arises, and must otherwise comply with the provisions of Article X of the By-Laws and of any Conflicts of Interest Policy that is then in place.
 
-In addition, you should keep all matters and information relating to the Foundation in complete confidence until there has been general public disclosure by the appropriate spokesperson, or unless the information is already a matter of public record or common knowledge. All Directors are required to use reasonable care to protect and safeguard the Foundation’s confidential information.
+In addition, you should keep all matters and information relating to the Foundation in complete confidence until there has been general public disclosure by the appropriate spokesperson or the Board has decided as a whole that any director may disclose it, unless the information is already a matter of public record or common knowledge. All Directors are required to use reasonable care to protect and safeguard the Foundation’s confidential information.
 
 Finally, you should be aware of the basic legal requirements to which the Foundation may be subject (such as anti-trust laws), and familiarize yourself with all related policies that may have previously been adopted by the Board. If you believe that an activity undertaken by the Foundation is illegal, you should bring it to the attention of the full Board for investigation and inquiry.
 
@@ -86,7 +86,7 @@ While a Director has the right and responsibility to exercise independent judgme
 
 ## Amendments; Updates
 
-These governance guidelines and standards shall be reviewed periodically by the Board in consultation with legal counsel, or an authorized committee of the Board, and may be amended, updated or repealed by the Board of a duly authorized committee thereof as appropriate.
+These governance guidelines and standards shall be reviewed periodically by the Board or an authorized committee of the Board, in consultation with legal counsel, and may be amended, updated or repealed by the Board or a duly authorized committee thereof as appropriate.
 
 
 As approved by the Board of Directors on __________, 2017
