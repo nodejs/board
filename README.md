@@ -56,7 +56,7 @@ The cost of Individual Membership is:
 - General Population: __$100/yr__
 
 <sup>* links to an issue on a Private repo that is only accessible to GitHub users
-who are on the [`Members` team](https://github.com/orgs/nodejs/teams/members) of
+who are [members](https://github.com/orgs/nodejs/people) of
 the `nodejs` GitHub organization. Users are added to the team (by Collaborators)
 when they contribute consistently to [a Node.js Foundation project](https://github.com/nodejs/).</sup>
 
