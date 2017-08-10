@@ -386,13 +386,14 @@ shall be performed under such nominating procedures as may be set by the Board f
 time.
 - d) At the time of any election of Directors where the number of Platinum Directors is
 three or greater, each Individual Member in good standing shall have the right to vote, together
-with the other Individual Members as a class, to elect one Individual Member to serve as a
+with the other Individual Members as a class, to elect two Individual Members to serve as a
 Director (such Director being referred to as the "Individual Director"). Prior to the first annual
 action of Members, the initial Individual Director(s) shall be elected at a time approved by the
 Board. Each Individual Director shall serve in accordance with Section 4.3(h) below and until
-his or her successor is elected and qualified or until his or her earlier resignation or removal. The
-selection of nominees for such position(s) shall be performed under such nominating procedures
-as may be set by the Board from time to time.
+his or her successor is elected and qualified or until his or her earlier resignation or removal
+for staggered terms as approved by the Board of Directors. The selection of nominees for such
+position(s) shall be performed under such nominating procedures as may be set by the Board from
+time to time.
 - e) At the time of any election of Directors where the number of Platinum Directors is
 two or greater, the Technical Steering Committee shall designate a representative to the Board of
 Directors in accordance with Section 5.4(b) below, which representative shall automatically be a
