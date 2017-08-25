@@ -12,7 +12,7 @@ representation on the [Board of Directors](https://nodejs.org/en/foundation/boar
 
 ### Representation on the Board of Directors
 The Individual Members are represented on the Board of Directors by 2 Individual Directors 
-with staggared two year terms. A representative is elected in January of each year with
+with staggered two year terms. A representative is elected in January of each year with
 no limitations to the number of terms served.
 
 #### Current Individual Directors
