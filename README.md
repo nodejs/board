@@ -55,7 +55,7 @@ The cost of Individual Membership is:
 - Students: __$25/yr__
 - General Population: __$100/yr__
 
-<sup>* links to an issue on a Private repo that is only accessible to GitHub users
+<sup>* links to a Private repo that is only accessible to GitHub users
 who are on the [`Members` team](https://github.com/orgs/nodejs/teams/members) of
 the `nodejs` GitHub organization. Users are added to the team (by Collaborators)
 when they contribute consistently to [a Node.js Foundation project](https://github.com/nodejs/).</sup>
@@ -64,4 +64,4 @@ when they contribute consistently to [a Node.js Foundation project](https://gith
 
 [Please file an issue.](https://github.com/nodejs/board/issues)
 
-[1]: https://github.com/nodejs/membership/issues/1
+[1]: https://github.com/nodejs/members
