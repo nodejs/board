@@ -36,6 +36,7 @@ this repository to communicate with the Membership.
 
 #### Previous Individual Directors
 - Feross Aboukhadijeh [@feross](https://github.com/feross) • Jan 2016 - Jan 2017.
+- Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams • Jan 2016 - Jun 2018.
 
 ### Registration and Cost
 Anyone with a GitHub account may become an Individual Member. Visit 
