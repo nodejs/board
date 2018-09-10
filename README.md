@@ -20,15 +20,6 @@ no limitations to the number of terms served.
 <table>
   <tr>
     <td>
-      <a href="//github.com/ashleygwilliams">
-        <img width=200 src="https://avatars.githubusercontent.com/u/1163554?s=200" alt="@ashleygwilliams">
-      </a>
-      <br>
-      **Ashley Williams**<br>
-      <a href="//github.com/ashleygwilliams">@ashleygwilliams</a><br>
-      <sup>Jan 2016 - Jan 2018</sup>
-    </td>
-    <td>
       <a href="//github.com/williamkapke">
         <img width=200 src="https://avatars.githubusercontent.com/u/739813?s=200" alt="@williamkapke">
       </a>
