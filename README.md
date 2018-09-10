@@ -11,9 +11,7 @@ Individual Members of the Node.js Foundation have the ability to both run and vo
 representation on the [Board of Directors](https://nodejs.org/en/foundation/board/).
 
 ### Representation on the Board of Directors
-The Individual Members are represented on the Board of Directors by 2 Individual Directors 
-with staggered two year terms. A representative is elected in January of each year with
-no limitations to the number of terms served.
+The Individual Members are represented on the Board of Directors an Individual Director. A representative is elected in January every two years with no limitations to the number of terms served.
 
 #### Current Individual Directors
 <!-- Senior Director always listed first. Upon re-election, they become the Junior again.-->
