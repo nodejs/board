@@ -14,27 +14,13 @@ representation on the [Board of Directors](https://nodejs.org/en/foundation/boar
 The Individual Members are represented on the Board of Directors an Individual Director. A representative is elected in January every two years with no limitations to the number of terms served.
 
 #### Current Individual Directors
-<!-- Senior Director always listed first. Upon re-election, they become the Junior again.-->
-<table>
-  <tr>
-    <td>
-      <a href="//github.com/williamkapke">
-        <img width=200 src="https://avatars.githubusercontent.com/u/739813?s=200" alt="@williamkapke">
-      </a>
-      <br>
-      **William Kapke**<br>
-      <a href="//github.com/williamkapke">@williamkapke</a><br>
-      <sup>Jan 2017 - Jan 2019</sup>
-    </td>
-  </tr>
-<table>
-
-Along with their regular Board duties, the Individual Directors use 
-this repository to communicate with the Membership.
+TBD
 
 #### Previous Individual Directors
 - Feross Aboukhadijeh [@feross](https://github.com/feross) • Jan 2016 - Jan 2017.
 - Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams) • Jan 2016 - Jun 2018.
+- William Kapke [@williamkapke](https://github.com/williamkapke) • Jan 2017 - Mar 2019.
+
 
 ### Registration and Cost
 Anyone with a GitHub account may become an Individual Member. Visit 
